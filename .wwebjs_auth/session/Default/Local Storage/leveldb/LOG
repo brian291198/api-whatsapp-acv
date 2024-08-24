@@ -1,0 +1,9 @@
+2024/08/18-11:00:48.699 2538 Reusing MANIFEST C:\FLET\BACKEND-NODEJS\whatsapp-api\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2024/08/18-11:00:48.700 2538 Recovering log #3
+2024/08/18-11:00:48.700 2538 Reusing old log C:\FLET\BACKEND-NODEJS\whatsapp-api\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2024/08/18-12:11:08.663 5920 Level-0 table #5: started
+2024/08/18-12:11:08.671 5920 Level-0 table #5: 19379 bytes OK
+2024/08/18-12:11:08.677 5920 Delete type=0 #3
+2024/08/18-18:06:14.077 3a0c Level-0 table #7: started
+2024/08/18-18:06:14.089 3a0c Level-0 table #7: 11968 bytes OK
+2024/08/18-18:06:14.094 3a0c Delete type=0 #4
